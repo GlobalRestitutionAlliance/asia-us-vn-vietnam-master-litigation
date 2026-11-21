@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: vietnaman-restitution-roadmap-and-qsf-trust-execution
-  name: Vietnaman Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/vietnaman-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_vn_001
+    name: Vietnam Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_002
+    name: Vietnam Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_003
+    name: Vietnam Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_004
+    name: Vietnam Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_005
+    name: Vietnam Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_006
+    name: Vietnam Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_007
+    name: Vietnam Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_008
+    name: Vietnam Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_009
+    name: Vietnam Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_010
+    name: Vietnam Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_011
+    name: Vietnam Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_012
+    name: Vietnam Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_013
+    name: Vietnam Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_014
+    name: Vietnam Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_015
+    name: Vietnam Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_016
+    name: Vietnam Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_017
+    name: Vietnam Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_018
+    name: Vietnam Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_019
+    name: Vietnam Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_020
+    name: Vietnam Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_021
+    name: Vietnam Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_022
+    name: Vietnam Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_023
+    name: Vietnam Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_024
+    name: Vietnam Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_025
+    name: Vietnam Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_026
+    name: Vietnam Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_027
+    name: Vietnam Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_028
+    name: Vietnam Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_029
+    name: Vietnam Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_030
+    name: Vietnam Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_031
+    name: Vietnam Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_032
+    name: Vietnam Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_033
+    name: Vietnam Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_034
+    name: Vietnam Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_035
+    name: Vietnam Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_036
+    name: Vietnam Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_037
+    name: Vietnam Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_038
+    name: Vietnam Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_039
+    name: Vietnam Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_040
+    name: Vietnam Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_041
+    name: Vietnam Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_042
+    name: Vietnam Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_043
+    name: Vietnam Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_044
+    name: Vietnam Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_045
+    name: Vietnam Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_046
+    name: Vietnam Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_047
+    name: Vietnam Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_048
+    name: Vietnam Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_049
+    name: Vietnam Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_050
+    name: Vietnam Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_051
+    name: Vietnam Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_052
+    name: Vietnam Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_053
+    name: Vietnam Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_054
+    name: Vietnam Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_055
+    name: Vietnam Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_056
+    name: Vietnam Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_057
+    name: Vietnam Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_058
+    name: Vietnam Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_059
+    name: Vietnam Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_060
+    name: Vietnam Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_061
+    name: Vietnam Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_062
+    name: Vietnam Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_063
+    name: Vietnam Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_064
+    name: Vietnam Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_065
+    name: Vietnam Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_066
+    name: Vietnam Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_067
+    name: Vietnam Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_068
+    name: Vietnam Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_069
+    name: Vietnam Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_070
+    name: Vietnam Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_071
+    name: Vietnam Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_072
+    name: Vietnam Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_073
+    name: Vietnam Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_074
+    name: Vietnam Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_075
+    name: Vietnam Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_076
+    name: Vietnam Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_077
+    name: Vietnam Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_078
+    name: Vietnam Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_079
+    name: Vietnam Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_080
+    name: Vietnam Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_081
+    name: Vietnam Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_082
+    name: Vietnam Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_083
+    name: Vietnam Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_084
+    name: Vietnam Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_085
+    name: Vietnam Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_086
+    name: Vietnam Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_087
+    name: Vietnam Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_088
+    name: Vietnam Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_089
+    name: Vietnam Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_090
+    name: Vietnam Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_091
+    name: Vietnam Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_092
+    name: Vietnam Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_093
+    name: Vietnam Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_094
+    name: Vietnam Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_095
+    name: Vietnam Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_096
+    name: Vietnam Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_097
+    name: Vietnam Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_098
+    name: Vietnam Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_099
+    name: Vietnam Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_100
+    name: Vietnam Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_101
+    name: Vietnam Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_102
+    name: Vietnam Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_103
+    name: Vietnam Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_104
+    name: Vietnam Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_105
+    name: Vietnam Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_106
+    name: Vietnam Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_107
+    name: Vietnam Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_108
+    name: Vietnam Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_109
+    name: Vietnam Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_110
+    name: Vietnam Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_111
+    name: Vietnam Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_112
+    name: Vietnam Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_113
+    name: Vietnam Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_114
+    name: Vietnam Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_115
+    name: Vietnam Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_116
+    name: Vietnam Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_117
+    name: Vietnam Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_118
+    name: Vietnam Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_119
+    name: Vietnam Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_120
+    name: Vietnam Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_121
+    name: Vietnam Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_122
+    name: Vietnam Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_123
+    name: Vietnam Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_124
+    name: Vietnam Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_125
+    name: Vietnam Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_126
+    name: Vietnam Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_127
+    name: Vietnam Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_128
+    name: Vietnam Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_129
+    name: Vietnam Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_130
+    name: Vietnam Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_131
+    name: Vietnam Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_132
+    name: Vietnam Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_133
+    name: Vietnam Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_134
+    name: Vietnam Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_135
+    name: Vietnam Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_136
+    name: Vietnam Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_137
+    name: Vietnam Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_138
+    name: Vietnam Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_139
+    name: Vietnam Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_140
+    name: Vietnam Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_141
+    name: Vietnam Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_142
+    name: Vietnam Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_143
+    name: Vietnam Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_144
+    name: Vietnam Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_145
+    name: Vietnam Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_146
+    name: Vietnam Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_147
+    name: Vietnam Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_148
+    name: Vietnam Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_149
+    name: Vietnam Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_150
+    name: Vietnam Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_151
+    name: Vietnam Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_152
+    name: Vietnam Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_153
+    name: Vietnam Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_154
+    name: Vietnam Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_155
+    name: Vietnam Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_156
+    name: Vietnam Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_157
+    name: Vietnam Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_158
+    name: Vietnam Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_159
+    name: Vietnam Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_160
+    name: Vietnam Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_161
+    name: Vietnam Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_162
+    name: Vietnam Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_163
+    name: Vietnam Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_164
+    name: Vietnam Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_165
+    name: Vietnam Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_166
+    name: Vietnam Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_167
+    name: Vietnam Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_168
+    name: Vietnam Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_169
+    name: Vietnam Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_170
+    name: Vietnam Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_171
+    name: Vietnam Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_172
+    name: Vietnam Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_173
+    name: Vietnam Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_174
+    name: Vietnam Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_175
+    name: Vietnam Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_176
+    name: Vietnam Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_177
+    name: Vietnam Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_178
+    name: Vietnam Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_179
+    name: Vietnam Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_180
+    name: Vietnam Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_181
+    name: Vietnam Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_182
+    name: Vietnam Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_183
+    name: Vietnam Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_184
+    name: Vietnam Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_185
+    name: Vietnam Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_186
+    name: Vietnam Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_187
+    name: Vietnam Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_188
+    name: Vietnam Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_189
+    name: Vietnam Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_190
+    name: Vietnam Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_191
+    name: Vietnam Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_192
+    name: Vietnam Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_193
+    name: Vietnam Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_194
+    name: Vietnam Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_195
+    name: Vietnam Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_196
+    name: Vietnam Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_197
+    name: Vietnam Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_198
+    name: Vietnam Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_199
+    name: Vietnam Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_200
+    name: Vietnam Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_201
+    name: Vietnam Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_202
+    name: Vietnam Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_203
+    name: Vietnam Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_204
+    name: Vietnam Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_205
+    name: Vietnam Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_206
+    name: Vietnam Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_207
+    name: Vietnam Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_208
+    name: Vietnam Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_209
+    name: Vietnam Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_210
+    name: Vietnam Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_211
+    name: Vietnam Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_212
+    name: Vietnam Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_213
+    name: Vietnam Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_214
+    name: Vietnam Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_215
+    name: Vietnam Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_216
+    name: Vietnam Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_217
+    name: Vietnam Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_218
+    name: Vietnam Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_219
+    name: Vietnam Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_220
+    name: Vietnam Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_221
+    name: Vietnam Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_222
+    name: Vietnam Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_223
+    name: Vietnam Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_224
+    name: Vietnam Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_225
+    name: Vietnam Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_226
+    name: Vietnam Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_227
+    name: Vietnam Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_228
+    name: Vietnam Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_229
+    name: Vietnam Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_230
+    name: Vietnam Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_231
+    name: Vietnam Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_232
+    name: Vietnam Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_233
+    name: Vietnam Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_234
+    name: Vietnam Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_235
+    name: Vietnam Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_236
+    name: Vietnam Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_237
+    name: Vietnam Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_238
+    name: Vietnam Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_239
+    name: Vietnam Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_240
+    name: Vietnam Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_241
+    name: Vietnam Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_242
+    name: Vietnam Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_243
+    name: Vietnam Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_244
+    name: Vietnam Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_245
+    name: Vietnam Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_246
+    name: Vietnam Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_247
+    name: Vietnam Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_248
+    name: Vietnam Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_249
+    name: Vietnam Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_250
+    name: Vietnam Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_251
+    name: Vietnam Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vn_252
+    name: Vietnam Skill 252
+    status: ACTIVE_SCAFFOLD
