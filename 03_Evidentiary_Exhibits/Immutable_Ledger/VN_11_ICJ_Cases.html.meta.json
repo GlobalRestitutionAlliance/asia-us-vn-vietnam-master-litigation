@@ -27,5 +27,10 @@
     "cf-cache-status": "HIT",
     "Age": "150",
     "CF-RAY": "a5e2f9f4dc6b9676-MIA"
-  }
+  },
+  "http_status": 200,
+  "fetched_at": "2026-11-21T21:59:22.743219Z",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
 }
