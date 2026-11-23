@@ -1,0 +1,15 @@
+{
+  "url": "https://www.hrw.org/asia/vietnam",
+  "final_url": "https://www.hrw.org/asia/vietnam",
+  "title": "HRW - Vietnam",
+  "fetched_at": "2026-11-23T14:20:45.573523Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 198204,
+  "sha256": "132b38330c788c228ae30a259caf3c3d45f1ca0b49cd3cf7f02e55515e6dbdf8",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}

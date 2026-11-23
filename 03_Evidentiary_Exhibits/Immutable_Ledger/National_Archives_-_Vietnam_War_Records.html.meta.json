@@ -1,0 +1,15 @@
+{
+  "url": "https://www.archives.gov/research/vietnam-war",
+  "final_url": "https://www.archives.gov/research/vietnam-war",
+  "title": "National Archives - Vietnam War Records",
+  "fetched_at": "2026-11-23T14:20:42.767854Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 243348,
+  "sha256": "721420443f4398162533e3d80a3ea1c8e28ca1ea8d193f9d44c9570cf22ba4d7",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}

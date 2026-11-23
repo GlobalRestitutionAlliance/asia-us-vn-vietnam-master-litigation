@@ -1,0 +1,15 @@
+{
+  "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/viet-nam/",
+  "final_url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/viet-nam/",
+  "title": "Amnesty - Vietnam",
+  "fetched_at": "2026-11-23T14:20:46.195085Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 104652,
+  "sha256": "fef66e815c317d5d21cb5d9eb9a7e77ff4ab3a6d46d30665cdecafeceb0a7d0f",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}
